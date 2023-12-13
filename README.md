@@ -48,9 +48,9 @@ Most websites feature ads, but how do you decide which ad to show, to whom, and 
 
 ### Contents
 
-- **Jupyter Notebook:** 
-- **Presentation:** 
-- **Data:** 
+- **Jupyter Notebook** 
+- **Presentation** 
+- **Data** 
 - **Data Description:** Understand the dataset columns and their descriptions.
 
 Let's embark on a journey through the world of online advertising, where data illuminates the path to better decision-making. Get ready to click through and explore!
